@@ -1,0 +1,20 @@
+.brick-layout {
+  display: -webkit-flex !important;
+  display: flex !important;
+}
+.brick-1, .brick-2, .brick-3 {
+  -webkit-flex-basis: 25px !important;
+  flex-basis: 25px !important;
+}
+.brick-4 {
+  -webkit-flex-basis: 200px !important;
+  flex-basis: 200px !important;
+}
+.brick-5 {
+  -webkit-flex-basis: 400px !important;
+  flex-basis: 400px !important;
+}
+.brick-6 {
+  -webkit-flex-basis: 200px !important;
+  flex-basis: 200px !important;
+}

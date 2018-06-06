@@ -1,0 +1,15 @@
+body {
+	background-color: #efd;
+}
+a.main_links {
+	color: #332333;
+}
+<<<<<<< HEAD
+ul {
+	list-style: none;
+=======
+
+li {
+	list-style: square;
+>>>>>>> master
+}
